@@ -1,5 +1,5 @@
 # FEM Truss Structure Analysis
-Analyse 2D Truss structures with Finite Element Method through Matlab code. 
+Analyse Truss structures with Finite Element Method through Matlab code. 
 This includes a GUI in Matlab where the user can manually define each node, element, and boundary condition, 
 or read an Excel file with the Node Element List to construct the structure, for convenience.
 
