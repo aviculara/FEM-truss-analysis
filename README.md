@@ -4,6 +4,7 @@ This includes a GUI in Matlab where the user can manually define each node, elem
 or read an Excel file with the Node Element List to construct the structure, for convenience.
 
 ## How to use
+Run the file with .mlapp extension.
 ### Generate the structure
 Enter the x and y coordinates of a node, and click the "Generate Node" button. 
 For generating elements, enter the start and end nodes, and click "Generate Element".
